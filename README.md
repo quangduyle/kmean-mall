@@ -1,1 +1,2 @@
-The age group with the strongest purchasing power is from 18 to 38
+- The age group with the strongest purchasing power is from 18 to 38
+- One more insight you can check is the percentage of income individuals aged 18 to 38 spend, and what percentage of the overall spending this group accounts for
